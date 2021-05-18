@@ -3,3 +3,6 @@ numpy
 pandas
 joblib
 Pillow
+sklearn
+spacy
+nltk
